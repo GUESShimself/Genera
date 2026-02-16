@@ -84,7 +84,7 @@ src/
     generate.worker.ts  Web Worker wrapper
     drawing.ts          Brush rendering for draw mode
   components/
-    GeneraV3.tsx        Main app (state, layout, controls)
+    Genera.tsx          Main app (state, layout, controls)
     DrawCanvas.tsx      Drawing overlay canvas
     Knob.tsx            Rotary knob control
     Seg.tsx             Segmented button selector

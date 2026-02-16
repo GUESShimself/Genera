@@ -1,5 +1,5 @@
-import { GeneraV3 } from "./components/GeneraV3";
+import { Genera } from "./components/Genera";
 
 export function App() {
-  return <GeneraV3 />;
+  return <Genera />;
 }

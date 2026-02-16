@@ -8,7 +8,7 @@ import { Seg } from "./Seg";
 import { DrawCanvas } from "./DrawCanvas";
 import type { DrawCanvasHandle } from "./DrawCanvas";
 
-export function GeneraV3() {
+export function Genera() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
   const drawCanvasRef = useRef<DrawCanvasHandle>(null);
